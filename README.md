@@ -47,5 +47,8 @@ end tell
 
 The icons come from "https://fonts.google.com/icons", If you dont like green you can easially change the colors by downloading an icon in a color, copying it. Going to the .app we just made or you just unzipped, right click it, click get info, click the icon to make it "glow", press delete, then `paste` the image in your clipboard to set it as the new icon.
 
+I used: https://fonts.google.com/icons?selected=Material+Symbols+Outlined:terminal:FILL@0;wght@400;GRAD@0;opsz@24&icon.query=terminal&icon.size=24&icon.color=%2375FB4C and https://fonts.google.com/icons?selected=Material+Symbols+Outlined:note_add:FILL@0;wght@400;GRAD@0;opsz@24&icon.query=file&icon.size=24&icon.color=%2375FB4C
+
+*** NOTE: ICONS MAY NOT APPEAR IN THE DOWNLOAD AND WILL APPEAR AS A DEFAULT AUTOMATION ICON.
 
 
